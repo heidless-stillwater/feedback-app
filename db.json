@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "eaf6",
+      "text": "feedback havana 1",
+      "rating": 3
+    },
+    {
+      "id": "1f3d",
+      "text": "feedback havana 2",
+      "rating": 6
+    },
+    {
+      "id": "3631",
+      "text": "feedback havana 4",
+      "rating": 9
+    }
+  ]
+}
